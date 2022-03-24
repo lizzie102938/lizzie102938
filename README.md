@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lizzie</h1>
 <h3 align="center">Web developer from London, living in Berlin. Recent graduate of Le Wagon's Full-Stack Web Development Bootcamp.</h3>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱  I’m currently learning **React and Redux**
 
-- 📫 How to reach me **lizzielerwill@hotmail.com**
+- 📫  How to reach me **lizzielerwill@hotmail.com**
+
+- 🏗️  After working in sales and marketing for global spirits brand, I made the change to become a web developer.
+
+- 🚀  My final project at Le Wagon was an idea I pitched to my peers, and was voted for development. [Skill-Up](https://github.com/DavidML89/Skill_Up_Project) at www.skill-up.xyz
+
+- 🤝  Actively looking for my next step in web development at a company with shared values and great people.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
