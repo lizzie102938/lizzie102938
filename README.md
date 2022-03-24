@@ -7,7 +7,7 @@
 
 - 🏗️  After working in sales and marketing for global spirits brand, I took the plunge and wanted to learn web development.
 
-- 🚀  My final project at Le Wagon was an idea I pitched to my peers, which was then voted for us to develop. [Skill-Up](https://github.com/DavidML89/Skill_Up_Project) at www.skill-up.xyz
+- 🚀  My final project at Le Wagon was an idea I pitched to my peers, which was then voted for us to develop. [Skill-Up](https://github.com/lizzie102938/Skill_Up_Project/) at www.skill-up.xyz
 
 - 🤝  Actively looking for my next step in web development at a company with shared values and great people.
 
