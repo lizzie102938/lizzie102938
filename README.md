@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **React and Redux**
 
-- 📫  How to reach me **lizzielerwill@hotmail.com**
+- 📫  How to reach me **lizzielerwill@gmail.com**
 
 - 🍸 💻  After working in sales and marketing for global spirits brand, I decided to make a change and dive into World of web development.
 
