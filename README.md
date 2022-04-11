@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lizzie</h1>
+<h1 align="center">Hi, I'm Lizzie</h1>
 <h3 align="center">Web developer from London, living in Berlin. Graduate of Le Wagon's Full-Stack Web Development Bootcamp.</h3>
 
 - 📚 I’m currently learning **React and Redux**
